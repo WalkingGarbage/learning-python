@@ -2,6 +2,8 @@
 
 From PoliCamp
 
+For further refernce visit my teacher's [repository](https://gitlab.com/fbrusch/tech-camp)
+
 ## Software
 
 I'll use Anaconda running on Linux
